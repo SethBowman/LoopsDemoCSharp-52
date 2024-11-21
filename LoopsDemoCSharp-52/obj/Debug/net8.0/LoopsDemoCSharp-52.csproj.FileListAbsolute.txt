@@ -1,0 +1,14 @@
+C:\Users\sethb\OneDrive\Desktop\repos\LoopsDemoCSharp-52\LoopsDemoCSharp-52\bin\Debug\net8.0\LoopsDemoCSharp-52.exe
+C:\Users\sethb\OneDrive\Desktop\repos\LoopsDemoCSharp-52\LoopsDemoCSharp-52\bin\Debug\net8.0\LoopsDemoCSharp-52.deps.json
+C:\Users\sethb\OneDrive\Desktop\repos\LoopsDemoCSharp-52\LoopsDemoCSharp-52\bin\Debug\net8.0\LoopsDemoCSharp-52.runtimeconfig.json
+C:\Users\sethb\OneDrive\Desktop\repos\LoopsDemoCSharp-52\LoopsDemoCSharp-52\bin\Debug\net8.0\LoopsDemoCSharp-52.dll
+C:\Users\sethb\OneDrive\Desktop\repos\LoopsDemoCSharp-52\LoopsDemoCSharp-52\bin\Debug\net8.0\LoopsDemoCSharp-52.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\LoopsDemoCSharp-52\LoopsDemoCSharp-52\obj\Debug\net8.0\LoopsDemoCSharp-52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sethb\OneDrive\Desktop\repos\LoopsDemoCSharp-52\LoopsDemoCSharp-52\obj\Debug\net8.0\LoopsDemoCSharp-52.AssemblyInfoInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\LoopsDemoCSharp-52\LoopsDemoCSharp-52\obj\Debug\net8.0\LoopsDemoCSharp-52.AssemblyInfo.cs
+C:\Users\sethb\OneDrive\Desktop\repos\LoopsDemoCSharp-52\LoopsDemoCSharp-52\obj\Debug\net8.0\LoopsDemoCSharp-52.csproj.CoreCompileInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\LoopsDemoCSharp-52\LoopsDemoCSharp-52\obj\Debug\net8.0\LoopsDemoCSharp-52.dll
+C:\Users\sethb\OneDrive\Desktop\repos\LoopsDemoCSharp-52\LoopsDemoCSharp-52\obj\Debug\net8.0\refint\LoopsDemoCSharp-52.dll
+C:\Users\sethb\OneDrive\Desktop\repos\LoopsDemoCSharp-52\LoopsDemoCSharp-52\obj\Debug\net8.0\LoopsDemoCSharp-52.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\LoopsDemoCSharp-52\LoopsDemoCSharp-52\obj\Debug\net8.0\LoopsDemoCSharp-52.genruntimeconfig.cache
+C:\Users\sethb\OneDrive\Desktop\repos\LoopsDemoCSharp-52\LoopsDemoCSharp-52\obj\Debug\net8.0\ref\LoopsDemoCSharp-52.dll
